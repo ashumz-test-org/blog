@@ -23,7 +23,7 @@ Typography driven, feature-rich blogging theme with minimal aesthetics. Includes
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
-## ✨ Features
+##  Features
 
 - MDX
 - Fully customizable through the usage of Gatsby Themes (and Theme UI)
